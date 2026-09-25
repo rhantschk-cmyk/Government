@@ -421,6 +421,7 @@ Ein Ereignis wird immer anhand der Regeln bewertet, die zum entsprechenden Zeitp
 
 Der typische Betrieb der Persönlichen Republik kann vereinfacht so dargestellt werden:
 
+```
     Verfassung
          ↓
       Gesetze
@@ -440,9 +441,11 @@ Der typische Betrieb der Persönlichen Republik kann vereinfacht so dargestellt 
     Konsequenz
          ↓
       Protokoll
+```
 
 Parallel dazu:
 
+```
     Problem / Verbesserungsvorschlag
                  ↓
              Proposal
@@ -454,6 +457,7 @@ Parallel dazu:
         Gesetzesänderung
                  ↓
            neue Version
+```
 
 ### Abgrenzung zum klassischen Produktivitätssystem
 
